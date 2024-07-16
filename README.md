@@ -1,2 +1,2 @@
-# Aluraflix
-Challenge Aluraflix
+Install npm 
+Ejecutar npm run dev
